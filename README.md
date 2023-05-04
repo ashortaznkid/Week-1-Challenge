@@ -6,5 +6,5 @@ website to be better optimized for search engines
 ## Screenshot
 <img src="./assets/images/2023-05-04 (1).png" alt="Screenshot of website">
 
-## Link to depolyed application
+## Link to deployed application
 https://ashortaznkid.github.io/Week-1-Challenge/
