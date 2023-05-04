@@ -1,5 +1,10 @@
 # Module 1 Challenge
 ## Descripition
-    Completed feature request challenge to adjust codebase to follow accessibility standards for the website to be better optimized for search engines
+Completed feature request challenge to adjust codebase to follow accessibility standards for the 
+website to be better optimized for search engines
+
 ## Screenshot
 <img src="./assets/images/2023-05-04 (1).png" alt="Screenshot of website">
+
+## Link to depolyed application
+https://ashortaznkid.github.io/Week-1-Challenge/
